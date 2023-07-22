@@ -1,2 +1,2 @@
-# codesofttask1-
-making the responsive landing page
+# LEARN-SMASHER-TASK-3-ONLINE-PORTFOLIO
+LEARN SMASHER TASK 3 ONLINE PORTFOLIO 
